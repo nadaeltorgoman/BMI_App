@@ -66,8 +66,5 @@ flutter run
 
 Created with 💙 by [Engineer Nada](https://github.com/nadaeltorgoman)
 
----
-
 *Healthy body, healthy code.*
 
-```
