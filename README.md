@@ -6,7 +6,7 @@ A sleek and simple Flutter app to calculate your Body Mass Index (BMI). It takes
 
 | Gender Selection | Height Slider | Result Page |
 |------------------|---------------|-------------|
-| ![Gender](assets/screens/gender.png) | ![Height](assets/screens/height.png) | ![Result](assets/screens/result.png) |
+| ![Gender] | ![Height] | ![Result] |
 
 ## 🚀 Features
 
